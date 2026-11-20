@@ -1,1 +1,1 @@
-# EcoGuardianes Videojuego educativo 2D en pixel art para niños de 7 a 14 años: restaura ríos, humedales y bosques con Runa, la nutria guía, y aprende a cuidar el agua, la fauna y la energía (ODS 6 y 15).
+Videojuego educativo 2D en pixel art para niños de 7 a 14 años: restaura ríos, humedales y bosques con Runa, la nutria guía, y aprende a cuidar el agua, la fauna y la energía (ODS 6 y 15). Hecho con Unity.
